@@ -1,3 +1,1 @@
-# My GitHub Page
-
-Just an enthusiastic
+go to https://y7shwebb.github.io/msx/
